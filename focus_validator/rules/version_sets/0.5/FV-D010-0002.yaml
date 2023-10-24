@@ -1,1 +1,4 @@
-../../base_rule_definitions/FV-D010-0002.yaml
+check_id: FV-D010-0002
+column_id: BilledCurrency
+check:
+  allow_nulls: false

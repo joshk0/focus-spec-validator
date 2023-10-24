@@ -1,1 +1,4 @@
-../../base_rule_definitions/FV-D002-0002.yaml
+check_id: FV-D002-0002
+column_id: ResourceID
+check:
+  allow_nulls: true

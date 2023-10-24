@@ -1,1 +1,4 @@
-../../base_rule_definitions/FV-D001-0001.yaml
+check_id: FV-D001-0001
+column_id: ChargeType
+check:
+  data_type: string

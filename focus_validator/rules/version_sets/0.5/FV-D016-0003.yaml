@@ -1,1 +1,4 @@
-../../base_rule_definitions/FV-D016-0003.yaml
+check_id: FV-D016-0003
+column_id: ChargePeriodStart
+check:
+  column_required

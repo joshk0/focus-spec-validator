@@ -1,1 +1,4 @@
-../../base_rule_definitions/FV-D011-0003.yaml
+check_id: FV-D011-0003
+column_id: BillingPeriodEnd
+check:
+  column_required

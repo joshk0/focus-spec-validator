@@ -1,1 +1,4 @@
-../../base_rule_definitions/FV-D009-0003.yaml
+check_id: FV-D009-0003
+column_id: ServiceName
+check:
+  column_required

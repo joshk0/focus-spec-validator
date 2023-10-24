@@ -1,1 +1,4 @@
-../../base_rule_definitions/FV-D005-0001.yaml
+check_id: FV-D005-0001
+column_id: BillingAccountName
+check:
+  data_type: string

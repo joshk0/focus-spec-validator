@@ -1,1 +1,4 @@
-../../base_rule_definitions/FV-M001-0002.yaml
+check_id: FV-M001-0002
+column_id: BilledCost
+check:
+  allow_nulls: false

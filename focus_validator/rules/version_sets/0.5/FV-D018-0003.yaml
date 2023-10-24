@@ -1,1 +1,4 @@
-../../base_rule_definitions/FV-D018-0003.yaml
+check_id: FV-D018-0003
+column_id: SubAccountName
+check:
+  column_required

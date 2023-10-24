@@ -1,1 +1,4 @@
-../../base_rule_definitions/FV-D006-0003.yaml
+check_id: FV-D006-0003
+column_id: BillingAccountId
+check:
+  column_required

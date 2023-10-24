@@ -1,1 +1,4 @@
-../../base_rule_definitions/FV-D008-0001.yaml
+check_id: FV-D008-0001
+column_id: ResourceName
+check:
+  data_type: string

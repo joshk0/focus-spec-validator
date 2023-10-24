@@ -1,1 +1,4 @@
-../../base_rule_definitions/FV-M001-0003.yaml
+check_id: FV-M001-0003
+column_id: BilledCost
+check:
+  column_required

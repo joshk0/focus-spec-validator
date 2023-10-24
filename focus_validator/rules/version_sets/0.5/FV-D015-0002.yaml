@@ -1,1 +1,4 @@
-../../base_rule_definitions/FV-D015-0002.yaml
+check_id: FV-D015-0002
+column_id: ServiceCategory
+check:
+  allow_nulls: false

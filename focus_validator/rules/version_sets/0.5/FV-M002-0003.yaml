@@ -1,1 +1,4 @@
-../../base_rule_definitions/FV-M002-0003.yaml
+check_id: FV-M002-0003
+column_id: AmortizedCost
+check:
+  column_required
